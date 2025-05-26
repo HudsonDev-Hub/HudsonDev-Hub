@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Hudson
 
-Sou estudante de análise e desenvolvimento de sistema, e um futuro desenvolvedor Front-End. Apaixonado por tecnologia e programação.  Gosto de criar interfaces bonitas e funcionais, e aprender sempre mais!
+Sou estudante de análise e desenvolvimento de sistemas, e um futuro desenvolvedor Front-End. Apaixonado por tecnologia e programação.  Gosto de criar interfaces bonitas e funcionais, e aprender sempre mais!
 
 ---
 
