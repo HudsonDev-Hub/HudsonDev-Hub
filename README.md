@@ -45,7 +45,6 @@ Sou estudante de análise e desenvolvimento de sistemas, e um futuro desenvolved
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hudson.rodrix/)](https://www.instagram.com/hudson.rodrix/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:motahudsom@gmail.com)](mailto:motahudsom@gmail.com)
 
-![Snake animation](https://github.com/HudsonDev-Hub/HudsonDev-Hub/blob/output/github-contribution-grid-snake.svg)
 
 
 
