@@ -41,7 +41,7 @@ Sou estudante de análise e desenvolvimento de sistemas, e um futuro desenvolved
 ## 📫 Como me encontrar
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/HudsonDev-Hub)](https://github.com/HudsonDev-Hub)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin-aqui/)](https://www.linkedin.com/in/seu-linkedin-aqui/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=[https://www.linkedin.com/in/seu-linkedin-aqui/](https://www.linkedin.com/in/hudson-rodrigues-602928182/))](https://www.linkedin.com/in/hudson-rodrigues-602928182/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hudson.rodrix/)](https://www.instagram.com/hudson.rodrix/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:motahudsom@gmail.com)](mailto:motahudsom@gmail.com)
 
